@@ -7,3 +7,5 @@ swagger:
   title: roncoo-education-user
   description: roncoo education user
   base-package: com.roncoo.education.user
+
+hello: world
