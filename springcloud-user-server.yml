@@ -1,0 +1,9 @@
+#mybatis
+mybatis:
+  mapper-locations: classpath:mybatis/*.xml
+  type-aliases-package: com.roncoo.education.user.service.dao.impl.mapper.bean.entity
+
+swagger:
+  title: roncoo-education-user
+  description: roncoo education user
+  base-package: com.roncoo.education.user
